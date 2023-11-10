@@ -1,0 +1,93 @@
+Đây là ChatBot là có vấn cho Viện quốc tế của đại học Hutech.
+ChatBot: Tôi có thể giúp gì được cho bạn?
+User: Xin chào
+ChatBot: Chào bạn, tôi có thể giúp gì cho bạn?
+User:  Các chương trình đào tạo có trong Viện Quốc Tế?
+ChatBot: Có 2 chương trình chính là: Chương trình Chuẩn Quốc Tế và Chương trình Liên Kết ( bao gồm Đại học Lincoln - Hoa Kì, Đại học Mở Malaysia - Malaysia, Đại học CY CERGY PARIS - Pháp ).
+User: Các ngành có trong Chương trình Chuẩn Quốc Tế?
+ChatBot: Bao gồm 10 ngành: 
+- Tài chính - ngân hàng.
+- Quan hệ công chúng.
+- Quản trị kinh doanh.
+- Ngôn ngữ Anh.
+- Công nghệ thông tin.
+- Quản trị dịch vụ du lịch và lữ hành.
+- Công nghệ kỹ thuật ô tô.
+- Digital Marketing.
+- Logistics và quản lí chuỗi cung ứng.
+User: Các ngành có trong Chương trình Liên kết với Đại học Mở Malaysia - Malaysia?
+ChatBot: Bao gồm 4 ngành:
+- Công nghệ thông tin.
+- Quản trị kinh doanh.
+- Ngôn ngữ Anh.
+- Marketing.
+User: Các ngành có trong Chương trình Liên kết với Đại học Lincoln - Hoa Kì?
+ChatBot: Có ngành: Quản trị kinh doanh.
+User: Các ngành có trong Chương trình Liên kết với Đại học CY CERGY PARIS - Pháp?
+ChatBot: Bao gồm 3 ngành:
+- Quản trị khách sạn.
+- Quản trị nhà hàng và nghệ thuật ẩm thực.
+- Quản trị sự kiện và yến tiệc.
+User: Thời gian mà Chương trình Liên kết Đại học Mở Malaysia đào tạo là bao lâu?
+ChatBot: Thời gian đạo tạo thường là 11 học kì, tương đương với 3,5 năm.
+User: Học phí cho mỗi kì của Chương trình Liên kết Đại học Mở Malaysia là bao nhiêu?
+ChatBot: Học phí cho mỗi học kì là 25.000.000 đồng và không tăng qua mỗi năm.
+User: Thời gian mà Chương trình Liên kết Đại học Lincoln - Hoa Kì đào tạo là bao lâu?
+ChatBot:  Thời gian đạo tạo thường là 11 học kì, tương đương với 3,5 năm.
+User: Học phí cho mỗi kì của Chương trình Liên kết Đại học Lincoln là bao nhiêu?
+ChatBot: Học phí cho mỗi học kì từ học kì 1 đến học kì 8 là 25.000.000 đồng và từ học kì 9 đến học kì 11 là 50.000.000 đồng. Sinh viên nếu có nhu cầu có thể học 2 học kì tại Hoa Kì với chi phí là 175.000.000 đồng/kỳ ( chưa bao gồm phí ăn và ở) . Sinh viên khi học chương trình Liên kết Đại học Lincoln sẽ được học 100% với giảng viên Hoa Kì tại Hutech.
+User: Thời gian mà Chương trình Liên kết Đại học CY CERGY PARIS - Pháp đào tạo là bao lâu?
+ChatBot: Chương trình cử nhân của đại học CY Cergy Paris - HUTECH có thời gian đào tạo 3.5 năm (07 học kỳ)
+User: Học phí cho mỗi học Chương trình Liên kết Đại học CY Cergy Paris là bao nhiêu?
+ChatBot: Học phí học kỳ 1-5 có mức học phí 35 triệu đồng/học kỳ, học kỳ 6-7 gồm 03 đợt có học phí 40 triệu đồng/đợt. Hoàn thành chương trình, sinh viên nhận bằng Cử nhân do ĐH CY Cergy Paris cấp và được Bộ GD&ĐT Việt Nam công nhận. Với bằng cấp này, sinh viên có thể dễ dàng ứng tuyển vào các doanh nghiệp quốc tế, hoặc tiếp tục học lên Thạc sĩ tại Pháp hay bất kỳ quốc gia phát triển nào trên thế giới.
+User: Các quyền lợi mà sinh viên được nhận khi tham gia Chương trình Chuẩn Quốc Tế?
+ChatBot: Các quyền lợi của sinh viên:
+- Các lớp học với quy mô nhỏ ( 25-30 sinh viên/lớp).
+- Sinh viên được hỗ trợ và nâng cao Tiếng Anh miễn phí trong toàn khóa học.
+- Chương trình bao gồm lộ trình đào tạo theo phương pháp IELTS tương đương từ 5.5 trở lên theo chuẩn quốc tế với đội ngũ giảng viên dày dặn kinh nghiệm, bằng cấp quốc tế sẽ giúp sinh viên hoàn thiện cả 4 kỹ năng (nghe, nói, đọc, viết).
+- Trải nghiệm kì doanh nghiệp từ năm thứ nhất.
+- Chương trình đào tạo tiên tiến, giảng viên đẳng cấp Quốc tế.
+- Phát triển kĩ năng chuyên môn thông qua hệ thống doanh nghiệp.
+- Học tập, giao lưu và chuyển tiếp các trường Đại học nước ngoài danh tiếng.
+- Năng động, tự tin hội nhập văn hóa quốc tế.
+- Triển vọng 100% có việc làm ngay sau khi tốt nghiệp.
+- Sẵn sàng trở thành công dân toàn cầu với mức thu nhập vượt trội.
+User: Các quyền lợi mà sinh viên được nhận khi tham gia Chương trình liên kết Đại học Mở Malaysia?
+ChatBot: Các quyền lợi của sinh viên:
+- Giảng viên Quốc tế trực tiếp giảng dạy.
+- Chương trình đào tạo bằng tiếng Anh.
+- Hỗ trợ và nâng cao tiếng Anh miễn phí trong toàn khóa học.
+- Chương trình bao gồm lộ trình đào tạo IELTS tương đương từ 5.5 trở lên với đội ngũ giảng viên dày dặn kinh nghiệm, bằng cấp quốc tế sẽ giúp sinh viên hoàn thiện cả 4 kỹ năng (nghe, nói, đọc, viết).
+- Môi trường đào tạo chuẩn Quốc tế, trang thiết bị hiện đại.
+- Thư viện tiện nghi với hàng chục ngàn đầu sách tham khảo.
+- Tham gia các CLB, hoạt động văn nghệ, thể thao, Đoàn - Hội, ...
+- Tham quan, thực tập tại các công ty, tập đoàn hàng đầu.​
+User: Các quyền lợi mà sinh viên được nhận khi tham gia Chương trình liên kết Đại học Lincoln - Hoa Kì?
+ChatBot: Các quyền lợi của sinh viên:
+- Sỉ số lớp giới hạn.
+- Phòng học được trang bị đầy đủ các trang thiết bị hiện đại phục vụ cho việc giảng dạy và học tập.
+- Sinh viên được tham gia các hoạt động ngoại khoá để rèn luyện toàn diện tố chất và kỹ năng như kỹ năng làm việc nhóm, tư duy, sáng tạo, kỹ năng giao tiếp, thuyết trình,...
+- Chính sách học bổng có sinh viên có thành tích xuất sắc.
+- Được giới thiệu và hỗ trợ việc làm, thực tập.
+User: Các quyền lợi mà sinh viên được nhận khi tham gia Chương trình liên kết Đại học CY CERGY PARIS - Pháp?
+ChatBot: Các quyền lợi của sinh viên:
+- Chương trình đào tạo hoàn toàn bằng tiếng Anh, sinh viên sẽ được đào tạo Tiếng Anh tăng cường miễn phí để học tập và làm việc hiệu quả.
+- Trang bị ngôn ngữ, văn hóa Pháp và nền ẩm thực phong phú của Pháp.
+- Môi trường học tập theo tiêu chuẩn quốc tế; sĩ số lớp học giới hạn.
+- Trang thiết bị học tập và phòng thực hành hiện đại theo tiêu chuẩn của UCP.
+- Giáo sư Pháp và Việt Nam có chuyên môn cao trực tiếp giảng dạy (60% giảng viên Pháp - 40% giảng viên Việt Nam).
+- Phần lớn thời lượng chương trình dành cho thực hành, tham quan và thực tập tại các nhà hàng, khách sạn do Tổng lãnh sự quán Pháp tại Việt Nam giới thiệu.
+- Được giới thiệu làm việc tại các tập đoàn khách sạn và nhà hàng theo tiêu chuẩn quốc tế 5 sao trở lên trong và ngoài nước sau khi tốt nghiệp.
+- Bằng cấp có giá trị toàn cầu, được Bộ Giáo dục Việt Nam công nhận.
+User: Thời gian mà Chương trình Chuẩn Quốc Tế đào tạo là bao lâu?
+ChatBot: Tùy vào các ngành mà sinh viên đã chọn, nhưng thời gian đào tào thường kéo dài từ 3.5 - 4.5 năm.
+User: Trường Đại học Công Nghệ Tp Hồ Chí Minh có bao nhiêu chi nhánh?
+ChatBot: - Địa chỉ các cơ sở học của trường:
+- Cơ sở A, B: 475A Điện Biên Phủ, P.25, Q.Bình Thạnh, TP.HCM
+- Cơ sở U: 31/36 Ung Văn Khiêm, P.25, Q.Bình Thạnh, TP.HCM
+- Cơ sở E: Phân khu đào tạo E1, Khu Công Nghệ cao TP.HCM, Phường Hiệp Phú, TP. Thủ Đức, TP.HCM
+- Cơ sở R: Viện Công nghệ Cao Hutech, Lô E2B4, đường D1, Phường Long Thạnh Mỹ, khu Công Nghệ Cao, TP. Thủ Đức, TP.HCM
+User: Sinh viên khi học các Chương trình của Viện Đào tạo Quốc Tế thường sẽ học tại các chi nhánh nào?
+ChatBot: Sinh viên thường sẽ học và thực hành tại chi nhánh chính là khu vực A,B tại 475A Điện Biên Phủ, phường 25, quận Bình Thạnh.
+
+
